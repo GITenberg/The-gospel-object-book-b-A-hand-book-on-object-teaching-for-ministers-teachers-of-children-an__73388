@@ -1,0 +1,32 @@
+_repo: The-gospel-object-book-b-A-hand-book-on-object-teaching-for-ministers-teachers-of-children-an__73388
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Woolston, C. H. (Clarence Herbert)
+    alias: Woolston, Clarence Herbert
+    birthdate: 1856
+    deathdate: 1927
+    gutenberg_agent_id: '56221'
+    url: http://www.gutenberg.org/2009/agents/56221
+description: ''
+gutenberg_issued: '2024-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73388'
+  lccn: '25017463'
+language: en
+pgterms:marc905: 20240411171206woolston
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Jonathan Gregory
+publication_note: '  $aChicago :$bW.P. BLESSING CO, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s sermons'
+- !lcc 'BV'
+- GITenberg
+title: 'The gospel object book : $b A hand-book on object teaching for ministers,
+  teachers of children and adults'
+url: http://www.gutenberg.org/ebooks/73388
