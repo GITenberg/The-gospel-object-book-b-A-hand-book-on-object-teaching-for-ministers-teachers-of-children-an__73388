@@ -1,5 +1,8 @@
 _repo: The-gospel-object-book-b-A-hand-book-on-object-teaching-for-ministers-teachers-of-children-an__73388
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73388-h/images/cover.jpg
 creator:
   author:
     agent_name: Woolston, C. H. (Clarence Herbert)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '56221'
     url: http://www.gutenberg.org/2009/agents/56221
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73388#The-gospel-object-book-b-A-hand-book-on-object-teaching-for-ministers-teachers-of-children-an_
 gutenberg_issued: '2024-04-13'
 gutenberg_type: Text
 identifiers:
